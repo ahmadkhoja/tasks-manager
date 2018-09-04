@@ -1,0 +1,7 @@
+<TextField
+    id="name"
+    label="Name"
+    value={this.state.name}
+    onChange={this.handleChange}
+    margin="normal"
+/>
